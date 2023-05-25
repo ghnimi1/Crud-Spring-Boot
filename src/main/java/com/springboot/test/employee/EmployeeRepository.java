@@ -1,6 +1,6 @@
-package com.springboot.test.repositories;
+package com.springboot.test.employee;
 
-import com.springboot.test.entity.Employee;
+import com.springboot.test.employee.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
